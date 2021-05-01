@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Springbot2Application {
 
 	public static void main(String[] args) {
+		//welcome to first app
 		SpringApplication.run(Springbot2Application.class, args);
 	}
 
